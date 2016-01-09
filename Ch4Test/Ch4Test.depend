@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1452305014 source:/home/eon-alone/projects/sandbox/Ch4Test/main.cpp
+	<iostream>
+
+1452305026 source:/home/eon-alone/projects/sandbox/Ch4Test/sec4_7-1.cpp
+	<iostream>
+
+1452305159 source:/home/eon-alone/projects/sandbox/Ch4Test/sec4_7-2.cpp
+	<iostream>
+

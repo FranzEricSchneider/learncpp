@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1452020628 source:/home/eon-alone/projects/sandbox/HelloTest/main.cpp
+	<iostream>
+	"add.h"
+
+1452019289 source:/home/eon-alone/projects/sandbox/HelloTest/add.cpp
+
+1452019615 /home/eon-alone/projects/sandbox/HelloTest/add.h
+

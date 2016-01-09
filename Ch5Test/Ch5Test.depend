@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1452376434 source:/home/eon-alone/projects/sandbox/Ch5Test/sec5_3-1.cpp
+	<iostream>
+
+1452377164 source:/home/eon-alone/projects/sandbox/Ch5Test/sec5_3-2.cpp
+	<iostream>
+
+1452379571 source:/home/eon-alone/projects/sandbox/Ch5Test/ball_position.cpp
+	<math.h>
+	"physics_constants.h"
+
+1452379646 /home/eon-alone/projects/sandbox/Ch5Test/physics_constants.h
+
+1452379488 source:/home/eon-alone/projects/sandbox/Ch5Test/sec5_7.cpp
+	<iostream>
+
+1452380809 source:/home/eon-alone/projects/sandbox/Ch5Test/getRandomNumber.cpp
+	<cstdint>
+
