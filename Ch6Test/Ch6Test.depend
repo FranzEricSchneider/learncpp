@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1452569505 source:/home/eon-alone/projects/sandbox/learncpp/Ch6Test/sec6_3-3.cpp
+	<iostream>
+
+1452637828 source:/home/eon-alone/projects/sandbox/learncpp/Ch6Test/sec6_5.cpp
+	<iostream>
+	<utility>
+
+1452654349 source:/home/eon-alone/projects/sandbox/learncpp/Ch6Test/sec6_6.cpp
+	<iostream>
+
+1452651796 source:/home/eon-alone/projects/sandbox/learncpp/Ch6Test/sec6_12.cpp
+	<iostream>
+
+1452660165 source:/home/eon-alone/projects/sandbox/learncpp/Ch6Test/main.cpp
+	<array>
+	<iostream>
+	"blackjack.h"
+	"card.h"
+
+1452654003 source:/home/eon-alone/projects/sandbox/learncpp/Ch6Test/sec6_x-1.cpp
+	<iostream>
+
+1452654603 source:/home/eon-alone/projects/sandbox/learncpp/Ch6Test/sec6_x-2.cpp
+	<iostream>
+
+1452654664 source:/home/eon-alone/projects/sandbox/learncpp/Ch6Test/sec6_x-3.cpp
+	<iostream>
+
+1452658346 source:/home/eon-alone/projects/sandbox/learncpp/Ch6Test/card_functions.cpp
+	<iostream>
+	"card.h"
+
+1452658363 /home/eon-alone/projects/sandbox/learncpp/Ch6Test/card.h
+	<array>
+	"get_random_numbers.h"
+
+1452655074 source:/home/eon-alone/projects/sandbox/learncpp/Ch6Test/sec6_x-4.cpp
+	<iostream>
+
+1452657696 /home/eon-alone/projects/sandbox/learncpp/Ch6Test/get_random_numbers.h
+	<random>
+
+1452658149 source:/home/eon-alone/projects/sandbox/learncpp/Ch6Test/get_random_numbers.cpp
+	<cstdint>
+	"get_random_numbers.h"
+
+1452660068 source:/home/eon-alone/projects/sandbox/learncpp/Ch6Test/blackjack.cpp
+	"blackjack.h"
+
+1452660130 /home/eon-alone/projects/sandbox/learncpp/Ch6Test/blackjack.h
+	<array>
+	<iostream>
+	"card.h"
+
